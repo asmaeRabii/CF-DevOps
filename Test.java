@@ -1,9 +1,9 @@
-public class Test {
+import java.util.*;
 
-    public static void main()
-    {
+
+public class Test  {
+
+    public static void main(String[] args) {
         System.out.println("bonjour");
-
-        ///fjkrrfjkrrjkfwjkf
     }
 }
